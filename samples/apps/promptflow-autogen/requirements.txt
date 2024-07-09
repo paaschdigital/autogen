@@ -5,3 +5,4 @@ pyautogen[redis]
 redis
 semantic-kernel
 beautifulsoup4
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
