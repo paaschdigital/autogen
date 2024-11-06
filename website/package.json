@@ -25,9 +25,9 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.1.1",
+    "@docusaurus/core": "^3.6.0",
     "@docusaurus/plugin-client-redirects": "^3.1.1",
-    "@docusaurus/preset-classic": "^3.1.1",
+    "@docusaurus/preset-classic": "^3.6.0",
     "@easyops-cn/docusaurus-search-local": "^0.21.1",
     "@mdx-js/react": "^3.0.0",
     "@svgr/webpack": "^5.5.0",
